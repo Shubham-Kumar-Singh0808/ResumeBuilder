@@ -1,10 +1,18 @@
-#### Hey there, 
-This is a Resume Building Project Built using ReactJS
+# Resume Builder
 
-#### Did this while Learning React ([Youtube Totorial](https://www.youtube.com/watch?v=U-kyLCq0PQw))
+Resume Builder is a web application built with ReactJS that allows users to create their resumes by inputting personal information, education, work experience, and skills.
 
-#### Features:
-* User can change the color of Resume
-* User can Swap the Sections of the Resume
-* User can add Multiple number of Workexperience, Project and Education details
-* Project is Mobile-friendly
+## Features
+
+- Input and edit personal information
+- Add and remove education details
+- Add and remove work experience details
+- Enter and update skills
+- Generate a printable resume
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
